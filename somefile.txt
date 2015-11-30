@@ -1,1 +1,2 @@
-hello somefile.txt
+text in somefile 2nd changed
+
