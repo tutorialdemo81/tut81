@@ -1,2 +1,2 @@
-text in somefile 2nd changed
+text in somefile 2nd changed reset
 
