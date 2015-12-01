@@ -1,4 +1,0 @@
-text in somefile
-merge with rebase
-merge 1st added newfeature 1st
-hello somefile
